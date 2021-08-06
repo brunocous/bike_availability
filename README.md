@@ -1,5 +1,5 @@
 # bike_availability
-Checks if bike is available fulfilling requirements
+Checks if Canyon road bike is available fulfilling requirements
 ## Get Started
 Create a new virtual environment, and run `pip install -r requirements.txt`. Activate it afterwards. To run the script, simply `python canyon.py`.
 
