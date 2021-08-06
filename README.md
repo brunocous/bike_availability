@@ -21,6 +21,8 @@ You can always attach notification triggers to the output of this script for ful
 
 ## TODO
 - [ ] Add an argument parser
+- [ ] Add dockerfile
+- [ ] Add suggestions how to add email notifications or desktop notifications
 - [ ] Choose the county of Canyon website
 - [ ] Add other classes of bikes (besides road bikes)
 
