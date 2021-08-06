@@ -20,9 +20,9 @@ To define your own bike requirements: edit the main section in the script.
 You can always attach notification triggers to the output of this script for full experience. 
 
 ## TODO
-[ ] Add an argument parser
-[ ] Choose the county of Canyon website
-[ ] Add other classes of bikes (besides road bikes)
+- [ ] Add an argument parser
+- [ ] Choose the county of Canyon website
+- [ ] Add other classes of bikes (besides road bikes)
 
 ## Disclaimer
 This is meant a fun side project.
